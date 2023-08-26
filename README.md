@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Volpes12
+- 👋 Hi, I’m @Vaibhav_Pratap_Singh_Kushwah
 - 👀 I’m interested in coding, gaming, Exploring world.
 - 🌱 I’m currently learning in Amity University.
 - 💞️ I’m looking to gain knowledge form every where, like by talking or working with strange.
