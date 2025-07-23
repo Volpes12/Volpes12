@@ -25,4 +25,4 @@
 
 ### 🔗 Let's Connect:
 
-[LinkedIn](https://www.linkedin.com/) *(****[https://www.linkedin.com/in/vaibhav-pratap-singh-kushwah/](https://www.linkedin.com/in/vaibhav-pratap-singh-kushwah/) 
+[LinkedIn](https://www.linkedin.com/)[https://www.linkedin.com/in/vaibhav-pratap-singh-kushwah/](https://www.linkedin.com/in/vaibhav-pratap-singh-kushwah/) 
