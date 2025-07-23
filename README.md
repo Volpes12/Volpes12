@@ -48,8 +48,7 @@
 ### 🔗 Connect with Me
 
 - 📧 Email: [vaibhav.p.s.kushwah15@gmail.com](mailto:vaibhav.p.s.kushwah15@gmail.com)
-- 🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/vaibhav-pratap-singh-kushwah/)) 
-
+- 🔗 [LinkedIn]: [https://www.linkedin.com/in/vaibhav-pratap-singh-kushwah)]
 ---
 
 <!--
