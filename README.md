@@ -1,28 +1,58 @@
-### 👋 Hello, I'm Vaibhav Pratap Singh Kushwah
+<!-- Profile Banner -->
+<p align="center">
+  <img src="assets/banner.png" alt="Vaibhav's GitHub Banner" width="100%" />
+</p>
 
-* 💻 I'm passionate about **coding**, **gaming**, and exploring the world 🌍
-* 🎓 Currently pursuing my degree at **Amity University**
-* 🤝 Eager to **collaborate**, learn from **diverse minds**, and grow through teamwork
-* 📫 Reach me at: **[vaibhav.p.s.kushwah15@gmail.com](mailto:vaibhav.p.s.kushwah15@gmail.com)**
+<h1 align="center">Hi 👋, I'm Vaibhav Pratap Singh Kushwah</h1>
 
----
-
-### 🚀 Tech Stack & Interests:
-
-* 🔧 Languages: C++, Python, HTML, CSS, JavaScript
-* 📦 Projects: Web Development, C++ OOPs , Open Source Contributions
-* 🌱 Currently learning: DSA 
+<p align="center">
+  💻 Coding Enthusiast | 🎮 Gamer | 🌍 Explorer  
+</p>
 
 ---
 
-### 📌 Goals:
+### 🌱 About Me
 
-* 📚 Build real-world projects
-* 💡 Contribute to open source
-* 💼 Land an internship or full-time role in tech
+- 🎓 Currently learning at **Amity University**
+- 🤝 Passionate about **collaborating**, gaining knowledge from people around the world
+- 🧠 Learning: **DSA, Web Development, Git & GitHub**
+- 📫 Reach me: **vaibhav.p.s.kushwah15@gmail.com**
 
 ---
 
-### 🔗 Let's Connect:
+### 🚀 Tech Stack
 
-LinkedIn  ->(https://www.linkedin.com/in/vaibhav-pratap-singh-kushwah/) 
+- 💻 Languages: `C++`, `Python`, `HTML`, `CSS`, `JavaScript`
+- 🧱 Tools: `Git`, `GitHub`, `VS Code`
+- 🔧 Projects: Web development, OOPs-based apps, beginner simulations
+
+---
+
+### 🎯 Goals
+
+- ✅ Build real-world software projects
+- ✅ Contribute to Open Source
+- ✅ Land an internship/full-time tech job
+
+---
+
+### 📷 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Volpes12&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Volpes12&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+- 📧 Email: [vaibhav.p.s.kushwah15@gmail.com](mailto:vaibhav.p.s.kushwah15@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/) *(Add your actual LinkedIn link here)*
+
+---
+
+<!--
+Tip: Upload your banner image as /assets/banner.png in your repository.
+Then update the <img src="assets/banner.png"> line to match your file path.
+-->
