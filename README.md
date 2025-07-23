@@ -23,8 +23,8 @@
 ### 🚀 Tech Stack
 
 - 💻 Languages: `C++`, `Python`, `HTML`, `CSS`, `JavaScript`
-- 🧱 Tools: `Git`, `GitHub`, `VS Code`
-- 🔧 Projects: Web development, OOPs-based apps, beginner simulations
+- 🧱 Tools:  `GitHub`, `VS Code`, 
+- 🔧 Projects: Web development, OOPs-based , Audio visualizer
 
 ---
 
