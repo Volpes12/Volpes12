@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="assetsbanner.png" alt="Vaibhav's GitHub Banner" width="30%" style="border: 3px solid white; border-radius: 12px;" />
-  <h1 style="font-size: 2.5em;">Vaibhav Pratap Singh Kushwah</h1>
+  <h1 style="font-size: 2.5em"; align="center">Vaibhav Pratap Singh Kushwah</h1>
   <h3 style="font-weight: normal; color: gray;">@Volpes12</h3>
 </p>
 
