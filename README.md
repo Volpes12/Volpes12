@@ -22,14 +22,25 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" width="40" />
+
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" />
+  <img src="https://img.shields.io/badge/Dev--C++-blue?logo=c%2B%2B&logoColor=white&style=for-the-badge" title="Dev C++" />
+  <img src="https://img.shields.io/badge/Capcut-000000?style=for-the-badge&logo=capcut&logoColor=white" title="Capcut (via badge)" />
+  <img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" title="Microsoft Word" />
+  <img src="https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" title="Microsoft PowerPoint" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" title="LeetCode" />
 </p>
+
 
 ---
 
