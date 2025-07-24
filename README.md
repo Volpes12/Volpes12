@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Vaibhav's GitHub Banner" width="20%" style="border: 3px solid white; border-radius: 12px;" />
+  <img src="assetsbanner.png" alt="Vaibhav's GitHub Banner" width="20%" style="border: 3px solid white; border-radius: 12px;" />
 </p>
 
 <h1 align="center">Hi, I'm Vaibhav Pratap Singh Kushwah 👋</h1>
