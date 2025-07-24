@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="assetsbanner.png" alt="Vaibhav's GitHub Banner" width="60%" style="border: 3px solid white; border-radius: 12px;" />
+  <img src="assetsbanner.png" alt="Vaibhav's GitHub Banner" width="30%" style="border: 3px solid white; border-radius: 12px;" />
 </p>
 
 
