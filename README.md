@@ -2,11 +2,15 @@
   <img src="assetsbanner.png" alt="Vaibhav's GitHub Banner" width="20%" style="border: 3px solid white; border-radius: 12px;" />
 </p>
 
-<h1 align="center">Hi, I'm Vaibhav Pratap Singh Kushwah 👋</h1>
+<h1 align="center">Hi, I'm Vaibhav Pratap Singh Kushwah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" /> </h1>
 
 <p align="center">
-  <b><i>🎓 CSE Student | 💻 Developer | 🌍 Lifelong Learner</i></b>
+  <b><i>🚀 Passionate about code | 👨‍💻 Always building | 🔭 Exploring the tech universe</i></b>
 </p>
+<p align="center">
+  <b><i>🌟 Passionate Developer | 🧠 Tech Explorer | 🎮 Gamer at heart</i></b>
+</p>
+
 
 ---
 
