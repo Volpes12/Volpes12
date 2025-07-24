@@ -1,19 +1,13 @@
-<!-- Profile Banner -->
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
 
-  <Left: Name -->
-  <div style="flex: 1; text-align: left;">
-    <h1 style="font-size: 2.5em;">Vaibhav Pratap Singh Kushwah</h1>
-    <h3 style="font-weight: normal; color: gray;">@Volpes12</h3>
-  </div>
 
-  <Right: Image -->
-  <div style="flex: 1; text-align: right;">
-    <img src="assetsbanner.png" alt="Vaibhav's GitHub Banner"
-         style="width: 20%; border: 3px solid white; border-radius: 12px;" />
-  </div>
 
-</div>
+
+<p align="center">
+  <img src="assetsbanner.png" alt="Vaibhav's GitHub Banner" width="30%" style="border: 3px solid white; border-radius: 12px;" />
+  <h1 style="font-size: 2.5em;">Vaibhav Pratap Singh Kushwah</h1>
+  <h3 style="font-weight: normal; color: gray;">@Volpes12</h3>
+</p>
+
 
 
 ---
