@@ -2,51 +2,51 @@
   <img src="assets/banner.png" alt="Vaibhav's GitHub Banner" width="20%" style="border: 3px solid white; border-radius: 12px;" />
 </p>
 
-<h1 align="center">I am Vaibhav Pratap Singh Kushwah</h1>
-
----
-
-### 🌱 About Me
-
-- 🎓 Currently learning at **Amity University**
-- 🤝 Passionate about **collaborating** and gaining knowledge from people around the world
-- 🧠 Learning: **DSA, Web Development, Git & GitHub**
-- 📫 Reach me: **vaibhav.p.s.kushwah15@gmail.com**
-
----
-
-### 🚀 Tech Stack
-
-#### 💻 Languages & Tools:
+<h1 align="center">Hi, I'm Vaibhav Pratap Singh Kushwah 👋</h1>
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <b><i>🎓 CSE Student | 💻 Developer | 🌍 Lifelong Learner</i></b>
 </p>
 
 ---
 
-### 🔧 Projects
+### 🌟 About Me
 
-- 🎨 Web Development projects
-- 🧠 OOPs-based programs
-- 🔊 Audio Spectrum Visualizer using Canvas API
+- 🎓 Currently pursuing B.Tech at **Amity University, Madhya Pradesh**
+- 🔍 I love to explore **DSA**, **Web Development**, and **Creative Tech Projects**
+- 🤝 Passionate about learning from people across the world
+- 📫 Reach me at: **vaibhav.p.s.kushwah15@gmail.com**
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" />
+</p>
+
+---
+
+### 🛠️ Projects
+
+- 🎨 **Web Development:** Responsive websites, forms, UI components  
+- 🔊 **Canvas Audio Visualizer:** Real-time animated music ring using JavaScript  
+- ⚙️ **OOP Projects:** Bank Management System, file handling, and object interaction
 
 ---
 
 ### 🎯 Goals
 
-- ✅ Build real-world software projects
-- ✅ Contribute to Open Source
-- ✅ Land an internship/full-time tech job
+- 📦 Build real-world, impactful software projects  
+- 💡 Contribute to meaningful open-source repositories  
+- 🎯 Secure a tech internship or full-time developer role  
+- 🧠 Stay consistent with DSA and CS fundamentals  
 
 ---
 
@@ -61,12 +61,17 @@
 
 ### 🔗 Connect with Me
 
-- 📧 Email: [vaibhav.p.s.kushwah15@gmail.com](mailto:vaibhav.p.s.kushwah15@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/vaibhav-pratap-singh-kushwah](https://www.linkedin.com/in/vaibhav-pratap-singh-kushwah)
+<p align="center">
+  <a href="mailto:vaibhav.p.s.kushwah15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vaibhav-pratap-singh-kushwah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Volpes12">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
-
-<!--
-Tip: Make sure your banner image is saved as assets/banner.png
--->
 
