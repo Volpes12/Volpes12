@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="assetsbanner.png" alt="Vaibhav's GitHub Banner" width="30%" style="border: 3px solid white; border-radius: 12px;" />
+  <img src="assetsbanner.png" alt="Vaibhav's GitHub Banner" width="20%" style="border: 3px solid white; border-radius: 12px;" />
   <h1 style="font-size: 2.5em"; align="center">I'am Vaibhav Pratap Singh Kushwah</h1>
 </p>
 
