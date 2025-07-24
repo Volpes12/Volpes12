@@ -69,11 +69,7 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Volpes12&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Volpes12&theme=tokyonight" width="48%" />
-</p>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volpes12&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" /> </p>
 
 ---
 
