@@ -8,7 +8,7 @@
   <b><i>🚀 Passionate about code | 👨‍💻 Always building | 🔭 Exploring the tech universe</i></b>
 </p>
 <p align="center">
-  <b><i>🌟 Passionate Developer | 🧠 Tech Explorer | 🎮 Gamer at heart</i></b>
+  <b><i>🧠 Tech Explorer | 🎮 Gamer at heart</i></b>
 </p>
 
 
