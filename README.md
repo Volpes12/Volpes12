@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="assetsbanner.png" alt="Vaibhav's GitHub Banner" width="50%" />
+  <img src="assetsbanner.png" alt="Vaibhav's GitHub Banner" width="20%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vaibhav Pratap Singh Kushwah</h1>
