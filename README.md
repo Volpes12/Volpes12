@@ -46,19 +46,6 @@
   <img src="https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" title="Microsoft PowerPoint" />
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" title="LeetCode" />
 </p>
-
-
-
----
-
-### 🛠️ Projects
-
-- 🎨 **Web Development:** Responsive websites, forms, UI components  
-- 🔊 **Canvas Audio Visualizer:** Real-time animated music ring using JavaScript  
-- ⚙️ **OOP Projects:** Bank Management System, file handling, and object interaction
-
----
-
 ### 🎯 Goals
 
 - 📦 Build real-world, impactful software projects  
