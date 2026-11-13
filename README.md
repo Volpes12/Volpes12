@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <b><i>🧠 Tech Explorer | 🎮 Gamer at heart</i></b>
-</p>
+</p> 
 
 
 ---
